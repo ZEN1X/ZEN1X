@@ -1,6 +1,6 @@
 # Hi, 👋 I'm Jan
 
-## About me
+### About me
 - 🎓 3rd-year Applied Computer Science student @ AGH University of Krakow
 - 👨‍💻 C++ enthusiast
 - 🧠 Currently learning: graph theory and its uses, computational intelligence
